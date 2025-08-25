@@ -1,2 +1,9 @@
-# hibernate-inheritance-examples
-Practice project demonstrating Hibernate inheritance mapping strategies (single table, joined, table per class) in Java
+Hibernate ORM with embedded objects (@Embeddable & @Embedded)
+
+Automatic ID generation
+
+Optimistic locking with @Version
+
+Pre-configured Indian employee data samples
+
+Database-agnostic (MySQL/PostgreSQL/H2)
