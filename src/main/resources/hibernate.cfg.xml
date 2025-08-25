@@ -23,9 +23,7 @@
         <property name="hibernate.connection.pool_size">10</property>
 
         <!-- Register your entity classes -->
-            <mapping class="com.walker.hibernate.model.Player"/>
-			<mapping class="com.walker.hibernate.model.Cricketer"/>
-			<mapping class="com.walker.hibernate.model.Footballer"/>
+           <mapping class="com.walker.hibernate.entity.Employee"/>
 
 
     </session-factory>
